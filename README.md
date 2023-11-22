@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseoung123&show_icons=true&theme=radical)
 
+Platform & Languges
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Flutter&logoColor=white"/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leo0516)](https://solved.ac/leo0516)

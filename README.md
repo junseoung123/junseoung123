@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseoung123&show_icons=true&theme=radical)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=leo010516@naver.com)](https://solved.ac/leo010516@naver.com)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=leo0516)](https://solved.ac/leo0516)
